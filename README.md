@@ -1,5 +1,5 @@
 <h1 align="center">🎨 Design BY ME</h1>
-<h3 align="center">🖼 Poster Aplikasi GOFRESH 🖼</h3>
+<h3 align="center">🖼 Poster-Coverbook-Banner-dll. 🖼</h3>
 
 - 📫 How to reach me **irenakusumadewi9@gmail.com**
 
